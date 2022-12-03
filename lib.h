@@ -4,5 +4,5 @@
 
 #ifndef UNTITLED11_LIB_H
 #define UNTITLED11_LIB_H
-
+ bool nprimo(int);
 #endif //UNTITLED11_LIB_H
